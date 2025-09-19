@@ -1,0 +1,1 @@
+{"name": "90-we-need-to-build-a-simple-prac-firebase-040907", "spec": {"port": 8000, "containers": [{"image": "", "name": "90-we-need-to-build-a-simple-prac-firebase-040907", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
